@@ -1,0 +1,5 @@
+C:\workspace\DigitalInnovationOne\Projeto\bin\Debug\net6.0\publish\Projeto.exe
+C:\workspace\DigitalInnovationOne\Projeto\bin\Debug\net6.0\publish\Projeto.dll
+C:\workspace\DigitalInnovationOne\Projeto\bin\Debug\net6.0\publish\Projeto.deps.json
+C:\workspace\DigitalInnovationOne\Projeto\bin\Debug\net6.0\publish\Projeto.runtimeconfig.json
+C:\workspace\DigitalInnovationOne\Projeto\bin\Debug\net6.0\publish\Projeto.pdb

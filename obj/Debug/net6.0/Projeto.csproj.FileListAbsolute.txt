@@ -1,0 +1,15 @@
+C:\workspace\DigitalInnovationOne\Projeto\bin\Debug\net6.0\Projeto.exe
+C:\workspace\DigitalInnovationOne\Projeto\bin\Debug\net6.0\Projeto.deps.json
+C:\workspace\DigitalInnovationOne\Projeto\bin\Debug\net6.0\Projeto.runtimeconfig.json
+C:\workspace\DigitalInnovationOne\Projeto\bin\Debug\net6.0\Projeto.dll
+C:\workspace\DigitalInnovationOne\Projeto\bin\Debug\net6.0\ref\Projeto.dll
+C:\workspace\DigitalInnovationOne\Projeto\bin\Debug\net6.0\Projeto.pdb
+C:\workspace\DigitalInnovationOne\Projeto\obj\Debug\net6.0\Projeto.csproj.AssemblyReference.cache
+C:\workspace\DigitalInnovationOne\Projeto\obj\Debug\net6.0\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\DigitalInnovationOne\Projeto\obj\Debug\net6.0\Projeto.AssemblyInfoInputs.cache
+C:\workspace\DigitalInnovationOne\Projeto\obj\Debug\net6.0\Projeto.AssemblyInfo.cs
+C:\workspace\DigitalInnovationOne\Projeto\obj\Debug\net6.0\Projeto.csproj.CoreCompileInputs.cache
+C:\workspace\DigitalInnovationOne\Projeto\obj\Debug\net6.0\Projeto.dll
+C:\workspace\DigitalInnovationOne\Projeto\obj\Debug\net6.0\ref\Projeto.dll
+C:\workspace\DigitalInnovationOne\Projeto\obj\Debug\net6.0\Projeto.pdb
+C:\workspace\DigitalInnovationOne\Projeto\obj\Debug\net6.0\Projeto.genruntimeconfig.cache
